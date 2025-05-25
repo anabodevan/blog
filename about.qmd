@@ -1,0 +1,16 @@
+---
+title: "Hi, I'm Ana👋"
+subtitle: "b.a in international relations and wannabe data nerd"
+image: profile.png
+about:
+  template: jolla
+  links:
+  - icon: github
+    href: https://github.com/anabodevan
+  - icon: envelope
+    href: mailto::anabodevan01@gmail.com
+  - icon: linkedin
+    href: https://www.linkedin.com/in/ana-luisa-bodevan-979388207/
+---
+
+Learning by doing. Interested in the politics of development, social impact, and its intersection with data.
